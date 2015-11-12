@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Mars smells like pizza.
 The surface appears to lack cheese. 
+=======
+Amal smells like pizza.
+>>>>>>> 9745adda3fb71a519aa89b76a71d82a8009a158c
