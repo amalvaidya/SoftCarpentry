@@ -4,6 +4,7 @@ I now have to edit this file
 how to get there? Ice skate! DUH!!
 
 
+<<<<<<< HEAD
 ///////////////////
 \\\\\\\\\\\\\\\\\\\\\
 ----ooo-------ooo----
@@ -19,3 +20,10 @@ how to get there? Ice skate! DUH!!
 ----l------l------
 -----llllll-------
 ------------------
+=======
+   $$$$$$$$$$
+$$$$       $$$$
+$$   o  o   $$
+ $$   _|   $$
+$$    o     $$
+ $$ (    ) $$ 
