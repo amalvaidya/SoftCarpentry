@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 $$$$$$$$$$$$$$$$$$$
 |     o        o  |
 |          _|     |
@@ -7,6 +8,10 @@ $$$$$$$$$$ O $$$$$$
  $$$$$$$$$$$$$$$$$
    $$$$$$$$$$$$$
      $$$$$$$$$$
+=======
+Mars smells like pizza.
+The surface appears to lack cheese. 
+>>>>>>> 4602b3749d334c0b95060d855457b6dafd6f15f5
 =======
 Amal smells like pizza.
 >>>>>>> 9745adda3fb71a519aa89b76a71d82a8009a158c
